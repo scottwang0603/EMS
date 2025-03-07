@@ -30,6 +30,12 @@ Data fields of employee and department can be updated.
 
 ![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Add-department.gif)
 
+
+
+https://github.com/user-attachments/assets/8f50a284-9a95-4bae-9a1b-ad966fa6af3d
+
+
+
 **Add new employee**
 
 ![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Add-employee.gif)
