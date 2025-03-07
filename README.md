@@ -28,25 +28,35 @@ Data fields of employee and department can be updated.
 
 **Add new department**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Add-department.gif)
 
 
-
-https://github.com/user-attachments/assets/8f50a284-9a95-4bae-9a1b-ad966fa6af3d
+https://github.com/user-attachments/assets/31b3f047-ad41-4bd7-9249-67e330e24098
 
 
 
 **Add new employee**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Add-employee.gif)
+
+
+https://github.com/user-attachments/assets/cddb646e-bc5e-45b2-acc9-963f50929fde
+
+
 
 **Update department**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Update-department.gif)
+
+
+https://github.com/user-attachments/assets/fe01285d-dbb2-40ba-8aaa-6b1c82b5e0a4
+
+
 
 **Update employee**
 
-![範例 GIF](https://raw.githubusercontent.com/scottwang0603/EMS/main/ems-frontend/gifs/Update-employee.gif)
+
+
+https://github.com/user-attachments/assets/ee9cf67b-53d5-4093-b813-4c9744ffc954
+
+
 
 &nbsp;
 
