@@ -3,7 +3,7 @@
 This is a demo for employee management system.
 Frontend is based on React and backend is based on Spring Boot. Spring Boot APIs are used to exchange data between frontend and backend.
 
-As an user, you can add/update department. Then, add an employee and assign to one department entry.
+As a user, you can add/update department. Then, add an employee and assign to one department entry.
 
 Data fields of employee and department can be updated. 
 
